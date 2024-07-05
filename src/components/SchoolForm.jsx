@@ -13,7 +13,7 @@ const sub5 = "Computer Science"
 
 // total_marks and marks_obtained
 const total_marks = 100;
-const marks_obt_eng = 70;
+const marks_obt_eng = 30;
 const marks_obt_math = 60;
 const marks_obt_phy = 70;
 const marks_obt_chem = 50;
